@@ -1,1 +1,1 @@
-<?php `git pull git@github.com:cybertekim/awesomeProject.git`
+<?php `git pull git@github.com:cybertekim/awesomeProject.git`;
